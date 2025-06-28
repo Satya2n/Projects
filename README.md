@@ -1,4 +1,5 @@
-# Projects
-Mini Projects
+# Mini Projects
 
-The list of prjects in the repository listed below.
+# The list of projects in the repository listed below.
+<p>1.Simple Calculator in Python</p>
+<p>2.</p>
